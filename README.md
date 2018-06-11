@@ -11,7 +11,7 @@ Repositório com instruções e materiais para mentoria.
 
 ### Material de Estudo
 
-- https://becode.com.br/porque-aprender-python/
+- https://becode.com.br/porque-aprender-python/ :heavy_check_mark:
 - https://github.com/vmesel/Python-Hands-On
 - https://tutorial.djangogirls.org/pt/
 - https://github.com/PenseAllen/PensePython2e/tree/master/docs
