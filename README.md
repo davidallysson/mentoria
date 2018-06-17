@@ -28,6 +28,7 @@ Mentoria pode ser entendido como tutoria ou apadrinhamento. Basicamente, trata-s
 ### Materiais de Estudo
 
 - https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+- https://www.udemy.com/git-e-github-para-iniciantes/
 
 ## Inglês
 
