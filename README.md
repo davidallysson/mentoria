@@ -1,6 +1,7 @@
-# Mentoria - Jhosef Matheus
+# Mentoria
 
-Repositório com instruções e materiais para mentoria.
+Mentoria pode ser entendido como tutoria ou apadrinhamento. Basicamente, trata-se de uma ferramenta de desenvolvimento profissional que consiste na ajuda oferecida por alguém experiente a outro com menos experiência ou iniciante. O mentor tem grande conhecimento sobre determinada área e, portanto, qualificação para guiar e aconselhar seu aprendiz.
+
 
 | Estado das tarefas           |
 |------------------------------|
